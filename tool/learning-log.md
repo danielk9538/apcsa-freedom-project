@@ -1,19 +1,21 @@
 # Tool Learning Log
 
-## Tool: **X**
+## Tool: **XGodot**
 
-## Project: **X**
+## Project: **Top to Down Game**
 
 ---
 
-### X/X/XX:
-* Text
+### 11/24/24:
+* During the past week, I've been researching about my tool and followed youtube video guides to get me started. I followed the step by step guide to recreate the game in the video.
+
+The video - https://www.youtube.com/watch?v=5V9f3MT86M8
 
 ### X/X/XX:
 * Text
 
 
-<!-- 
+<!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
 * Challenges, a-ha moments, etc
