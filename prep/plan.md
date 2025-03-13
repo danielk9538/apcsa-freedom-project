@@ -1,7 +1,7 @@
 # Plan
 
-## Tool: 
-## Product: 
+## Tool: Godot
+## Product: Top to down game
 
 ---
 
@@ -9,13 +9,21 @@
 
 #### MVP
 
-- [ ] Task (deadline: X)
-  - [ ] Subtask (deadline: X)
+- [ ] Objective (deadline: X)
+  <!-- - [ ] Subtask (deadline: X) -->
+  - [x] map design (deadline: 12-31)
+  - [x] player sprite (deadline: 12-31)
+  - [x] player movement (deadline: 12-31)
+  - [ ] interior map design (deadline 03-20)
+  - [ ] hidden objects which the player must collect/find (deadline: 03-17)
+  - [ ] sprites which give information upon clicking on them.(npc)  (deadline: 03-20)
+  - [ ] conditionals for objects and interactions  (deadline: 04-15)
 
 #### Beyond MVP
 
 - [ ] Task
-  - [ ] Subtask
+  - [ ] hostile sprites which attack the user
+  - [x] player animation
 
 
 <!-- EXAMPLE
