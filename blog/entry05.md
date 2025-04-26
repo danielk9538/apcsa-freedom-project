@@ -24,7 +24,8 @@ In order for me to do this, I organized my `AnimatedSprite2D` node and separated
 <br>
 Here is one of the adjustments I did!! and the sprite sheet for the idling animation that I created: 
 Take a look at the picture below:
-![godot standing animation sprite sheet](sprite.png)<br>
+
+![godot standing animation character picture](spriteIdle.png)<br>
 
 Alongside animation updates, I also began working on **collisions**, which is a huge step toward making the map playable. I added a `CollisionShape2D` to the player character and adjusted its size to match the bottom half of the sprite (the feet area) so collisions would feel accurate. Then, I started placing **StaticBody2D** nodes with collision shapes across the environment—like on trees, buildings, and walls—so the character can't walk through them.
 
