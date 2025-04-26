@@ -10,7 +10,7 @@ This whole week, I've focused on animating my character for the Godot game that 
 
 The picture above is supposed to be for the character  moving to the left and how his movements are supposed to change when the direction changes.
 
-Take a look at the picture below:
+Take a look at the picture below:<be>
 ![godot Right animation character picture](PicRight.png)<br>
 
 
